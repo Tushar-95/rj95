@@ -1,3 +1,4 @@
+Login Page!
 <?php
 require "config.php";
 session_start();
